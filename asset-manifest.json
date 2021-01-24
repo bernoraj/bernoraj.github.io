@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.61daa61e.chunk.css",
+    "main.js": "./static/js/main.e7580c14.chunk.js",
+    "main.js.map": "./static/js/main.e7580c14.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2961d09f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2961d09f.js.map",
+    "static/js/2.7db742f9.chunk.js": "./static/js/2.7db742f9.chunk.js",
+    "static/js/2.7db742f9.chunk.js.map": "./static/js/2.7db742f9.chunk.js.map",
+    "static/js/3.a1df513b.chunk.js": "./static/js/3.a1df513b.chunk.js",
+    "static/js/3.a1df513b.chunk.js.map": "./static/js/3.a1df513b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.61daa61e.chunk.css.map": "./static/css/main.61daa61e.chunk.css.map",
+    "static/js/2.7db742f9.chunk.js.LICENSE.txt": "./static/js/2.7db742f9.chunk.js.LICENSE.txt",
+    "static/media/AWSCP.8214f565.png": "./static/media/AWSCP.8214f565.png",
+    "static/media/Azure900.a0202d4b.png": "./static/media/Azure900.a0202d4b.png",
+    "static/media/K8.7cdb846c.png": "./static/media/K8.7cdb846c.png",
+    "static/media/ProfilePicture.e4d78f7b.jpg": "./static/media/ProfilePicture.e4d78f7b.jpg",
+    "static/media/bernoqr.339a1d0e.svg": "./static/media/bernoqr.339a1d0e.svg",
+    "static/media/portfolio.scss": "./static/media/work.363a1319.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2961d09f.js",
+    "static/js/2.7db742f9.chunk.js",
+    "static/css/main.61daa61e.chunk.css",
+    "static/js/main.e7580c14.chunk.js"
+  ]
+}
